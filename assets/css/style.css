@@ -1,0 +1,55 @@
+/**
+First HomeWork
+ **/
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
+  background-color: #ffffff
+  float: left;
+}
+body {
+	background-image: url("http://wallup.net/wp-content/uploads/2016/05/27/91268-Game_of_Thrones-House_Stark-sigils.jpg");
+
+}
+p{
+	color: 000000
+}
+.container {
+  width:  400px;
+  height: 700;  
+  float: left;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  border: 0:;
+  
+  background-color: white
+}
+#main-bio {
+  width: 70%;
+  padding: 0;
+}
+
+#contact-info {
+  width: 30%;
+}
+
+#bio-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+
+
+}
+#txt {
+	padding: 10px;
+	float: left;
+ }
+#image {
+	padding: 30px;
+	margin-bottom: 5px;
+	border: 0
+}
